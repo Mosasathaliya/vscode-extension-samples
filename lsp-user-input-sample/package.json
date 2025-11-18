@@ -33,7 +33,7 @@
 		"@types/node": "^20",
 		"eslint": "^9.13.0",
 		"merge-options": "^3.0.4",
-		"rimraf": "^5.0.5",
+		"rimraf": "^6.1.0",
 		"ts-loader": "^9.5.1",
 		"typescript": "^5.8.2",
 		"typescript-eslint": "^8.26.0",
